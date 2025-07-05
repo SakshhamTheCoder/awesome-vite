@@ -171,6 +171,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 - [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - fullstack portfolio template with `Vite`, `React`, `TypeScript`, `Manifest`.
+- [react-jsx-pwa-starter](https://github.com/SakshhamTheCoder/react-jsx-pwa-starter) - Minimal PWA starter template with `React`, `Vite`, `TailwindCSS`, `React-Router`, `Axios` in JavaScript.
 
 #### Svelte
 
